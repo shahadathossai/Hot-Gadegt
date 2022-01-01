@@ -1,0 +1,52 @@
+.navbar{
+    margin-bottom: 50px;
+}
+.nav-link{
+    float: left;
+    color:dimgray;
+    
+}
+.btn{
+    background-color: #000;
+    color:white;
+    border-radius: 5px;
+}
+.bg{
+    background-image: url(bg-1.png);
+}
+.bg2{
+    background-image:url(bg-2.png);
+}
+.h3{
+  position: relative;
+  top:15px;
+}
+.card-group{
+    margin-top: 40px;
+}
+h4{
+    position: relative;
+left: 20px;
+}
+
+.beg1{
+    
+    position: relative;
+   padding-top:300px;
+   padding-left: 250px;
+   background:linear-gradient(45deg red,tomato);
+}
+.beg2{
+    position: relative;
+    padding-top:100px;
+}
+.b{
+    position: relative;
+    padding-top:100px;
+}
+
+.beg3 img{
+    width: 100%;
+    
+   padding-right: 50px;
+}
